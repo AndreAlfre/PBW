@@ -43,4 +43,4 @@ jika sudah daftar akan terlihat di xampp
 
 
 ## Kesimpulan
-pada praktikum ini, berhasil mengimplementasikan sistem authentifikasi dari register, login, dan logout. route CRUD menggunakan middleware aut jadi hanya user yang sudah terdaftar yang bisa melakukan perubahan create, edit, dan delete. menu home dapat diakses oleh publik tanpa login. 
+pada praktikum ini, berhasil mengimplementasikan sistem authentifikasi dari register, login, dan logout. route CRUD menggunakan middleware aut jadi hanya user yang sudah terdaftar yang bisa melakukan perubahan create, edit,dan delete. setelah didaftar akan masuk ke database. menu home dapat diakses oleh publik tanpa login 
