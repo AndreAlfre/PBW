@@ -37,6 +37,8 @@ tampilan Ini adalah view posts/create.blade.php
 tampilan login dan home 
 <img width="952" height="795" alt="image" src="https://github.com/user-attachments/assets/ad3af998-7dee-4bcd-9267-1efaa96804ee" />
 <img width="954" height="270" alt="image" src="https://github.com/user-attachments/assets/ac0bc613-b16c-43b9-9414-9060f7bed420" />
+jika sudah daftar akan terlihat di xampp 
+<img width="1470" height="427" alt="image" src="https://github.com/user-attachments/assets/ece1e6d1-baca-4553-bbe2-ca7ec518ed1c" />
 
 
 
