@@ -1,5 +1,6 @@
 # Praktikum PBW 
-### Andre Alfre (4523210018) 
+### Andre Alfre 
+### 4523210018 
 
 ## **Langkah - langkah praktikum 1 **
 Langkah 1 membuat folder praktikum 
