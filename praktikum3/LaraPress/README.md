@@ -9,11 +9,11 @@
 3. Menambah link navigasi pindah halaman.
 
 ## Screenshoots : 
-Halaman utama 
+Halaman utama.
 <img width="1270" height="471" alt="image" src="https://github.com/user-attachments/assets/9241aa83-4903-4707-abc8-a33d9777e051" />
-Halaman Tentang kami 
+Halaman Tentang kami. 
 <img width="891" height="429" alt="image" src="https://github.com/user-attachments/assets/becdc6ac-9fce-4171-91a8-2fca39e5c837" />
-Halaman Kontak
+Halaman Kontak.
 <img width="1023" height="484" alt="image" src="https://github.com/user-attachments/assets/9bdf0706-df10-4f70-8eca-fd202f7d1ca2" />
 
 Kesimpulan
