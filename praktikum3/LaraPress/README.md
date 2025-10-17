@@ -1,4 +1,4 @@
-# Praktikum 3 - Instalasi,Konfigurasi,dan Halaman Pertama
+# Praktikum 3 - Instalasi,Konfigurasi,dan Halaman. 
 
 **Nama:** Andre Alfre  
 **NPM:** 4523210018
