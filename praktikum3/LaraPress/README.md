@@ -4,9 +4,9 @@
 **NPM:** 4523210018
 
 ## Langkah Langkah pengerjaan 
-1. Install Laravel : composer create-project laravel/laravel LaraPress
-2. Membuat Halaman Statis baru : tentang kami dan kontak 
-3. Menambah link navigasi pindah halaman
+1. Install Laravel : composer create-project laravel/laravel LaraPress.
+2. Membuat Halaman Statis baru : tentang kami dan kontak.
+3. Menambah link navigasi pindah halaman.
 
 ## Screenshoots : 
 Halaman utama 
